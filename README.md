@@ -10,13 +10,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=karangite17&label=Profile%20Views&color=0061ff&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/karangite17?label=Followers&style=flat&color=0061ff" alt="followers" />
-</div>
-
-<br/>
-
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -28,12 +21,14 @@
 - 🌱 Constantly leveling up my skills in **React**, **PL/SQL**, and modern full-stack architecture.
 - 🤝 Open to collaborating on exciting **Flutter** and **Java backend** projects.
 - 💡 I love turning ideas into real, working products — from UI design to database design.
-- 📫 **Reach me at:** [karangite17@gmail.com](mailto:karangite17@gmail.com)
+- 📫 **Reach me at:** [karanrgite@gmail.com](mailto:karanrgite@gmail.com)
 - ⚡ **Fun fact:** I enjoy debugging as much as I enjoy shipping new features!
 
 </td>
 <td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="180" alt="flutter dev illustration"/>
+<img src="https://skillicons.dev/icons?i=flutter,java&theme=dark&perline=2" width="160" alt="flutter and java app development"/>
+<br/>
+<img src="https://img.shields.io/badge/App%20Building-Flutter%20%2B%20Java-0061ff?style=for-the-badge&logo=flutter&logoColor=white" alt="app building badge"/>
 </td>
 </tr>
 </table>
@@ -51,16 +46,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karangite17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karangite17&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karanrgite&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanrgite&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=karangite17&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=karanrgite&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karangite17&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanrgite&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
 
 ---
@@ -70,10 +65,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/karan-gite" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:karangite17@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="35" width="40" />
   </a>
 </p>
 
