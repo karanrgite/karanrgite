@@ -41,25 +41,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,html,css,js,react,oracle,git,github,vscode,androidstudio,postman,firebase&theme=dark" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanrgite&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanrgite&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=karanrgite&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanrgite&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
