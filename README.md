@@ -21,7 +21,7 @@
 - 🌱 Constantly leveling up my skills in **React**, **PL/SQL**, and modern full-stack architecture.
 - 🤝 Open to collaborating on exciting **Flutter** and **Java backend** projects.
 - 💡 I love turning ideas into real, working products — from UI design to database design.
-- 📫 **Reach me at:** [karanrgite@gmail.com](mailto:karanrgite@gmail.com)
+- 📫 **Reach me at:** [karangite17@gmail.com](mailto:karangite17@gmail.com)
 - ⚡ **Fun fact:** I enjoy debugging as much as I enjoy shipping new features!
 
 </td>
