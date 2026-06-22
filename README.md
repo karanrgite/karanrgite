@@ -1,8 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQFeRM8u2TvQSg/article-cover_image-shrink_600_2000/0/1613508685453?e=2147483647&v=beta&t=Hu8ozWmy9SraCeBzPwYGat5b-mJPzLjBCX03qvfMYso)
 <h1 align="center">Hi 👋, I'm Karan Gite</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg">
-
 
 
 - 📫 How to reach me **karangite17@gmail.com**
@@ -14,6 +12,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <!-- Flutter -->
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  </a>
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -42,25 +44,8 @@
   <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="plsql" width="40" height="40"/>
   </a>
-  
-  <!-- API (use link icon as generic API) -->
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/1486/1486365.png" alt="api" width="40" height="40"/>
-  </a>
-  <!-- Flutter -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <!-- App Development (generic phone icon) -->
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" alt="app development" width="40" height="40"/>
-  </a>
   <!-- Dart -->
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
 </p>
