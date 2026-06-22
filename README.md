@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Karan Gite</h1>
 <h3 align="center">A passionate Flutter & Java full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg](https://medium.com/@omlondhe/important-things-to-know-about-flutters-animations-427ea44d5351)">
+<img align="right" alt="Coding" width="400" src="[[https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg](https://medium.com/@omlondhe/important-things-to-know-about-flutters-animations-427ea44d5351)](https://cdn.prod.website-files.com/646497e9af65ec660cdb5328/649d7014a845ef2a1be2b201_63983e235e91e22b48880e5e_1680x882Flutter-Product1%2520(1).png)">
 
 
 - 📫 How to reach me **karangite17@gmail.com**
